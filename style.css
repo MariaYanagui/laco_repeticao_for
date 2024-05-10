@@ -34,3 +34,7 @@ option {
 option:hover {
   background-color: #f0f0f0; /* cor de fundo ao passar o mouse */
 }
+label {
+  text-align: center;
+  width: 302px;
+}
