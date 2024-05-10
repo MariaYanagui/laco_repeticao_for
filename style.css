@@ -13,3 +13,12 @@ select {
   background-size: 350px; /*tamanho da imagem*/
   color: rgb(255, 255, 255);/*cor da letra*/
 }
+input {
+  margin-top: 10px; /* margem superior para o botão */
+  padding: 5px 10px; /* preenchimento interno do botão */
+  background-color: #383831; /* cor de fundo do botão */
+  color: #ffffff; /* cor do texto do botão */
+  border: none; /* remova a borda do botão */
+  cursor: pointer; /* cursor do mouse */
+  border-radius: 5px; /* borda arredondada do botão */
+}
