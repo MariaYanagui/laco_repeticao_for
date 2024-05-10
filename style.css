@@ -31,3 +31,6 @@ input:focus {
 option {
   padding: 5px; /* preenchimento interno da opção */
 }
+option:hover {
+  background-color: #f0f0f0; /* cor de fundo ao passar o mouse */
+}
