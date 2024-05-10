@@ -28,3 +28,6 @@ input:hover {
 input:focus {
   outline: none; /* remova o contorno do botão ao focar */
 }
+option {
+  padding: 5px; /* preenchimento interno da opção */
+}
