@@ -1,2 +1,7 @@
 body {
     background-color: #ececdd; /* cor de fundo página */
+    background-image: url(musica2.jpg); /* imagem de fundo */
+    background-size: 1368px; /*tamanho da imagem*/
+    background-repeat: no-repeat; /* para não duplicar a imagem*/
+    color: white; /* cor da letra*/
+}
