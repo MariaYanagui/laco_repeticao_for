@@ -3,6 +3,7 @@
 * Este é um código HTML e JavaScript que cria um formulário interativo com uma lista suspensa de seleção múltipla, permitindo que o usuário escolha vários tipos de música.
 <img src="tela inicial.jpeg">
 <img src="telaa.jpeg">
+
 # Funcionalidades
 ### Contador de Seleções
 * O JavaScript associado ao botão "Quantos foram selecionados?" conta quantas opções foram escolhidas na lista suspensa quando o botão é clicado. Ele utiliza a função *howMany*, que recebe o objeto de seleção como argumento e percorre todas as opções para determinar quantas estão selecionadas. Em seguida, exibe um alerta com o total de opções selecionadas.
