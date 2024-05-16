@@ -1,6 +1,6 @@
 body {
     background-color: #ececdd; /* cor de fundo página */
-    background-image: url(musica2.jpg); /* imagem de fundo */
+    background-image: url(imagem.png); /* imagem de fundo */
     background-size: 1368px; /*tamanho da imagem*/
     background-repeat: no-repeat; /* para não duplicar a imagem*/
     color: white; /* cor da letra*/
@@ -9,7 +9,7 @@ select {
   width: 350px; /* largura do select */
   height: 200px; /* altura do select */
   margin-top: 80px; /* direção*/
-  background: rgba(255, 255, 255, 0.2); /* tranparencia*/ 
+  background: rgba(255, 255, 255, 0); /* tranparencia*/ 
   background-size: 350px; /*tamanho da imagem*/
   color: rgb(255, 255, 255);/*cor da letra*/
 }
