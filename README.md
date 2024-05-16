@@ -14,6 +14,8 @@
 * JavaScript 
 * VScode 
 * Git Hub 
+* Chat GPT
+# Sites consultados 
 * [MDN WEB DOCS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
 # Utilidade
 * Este código pode ser facilmente adaptado para diferentes propósitos, além de música. Basta modificar as opções na lista suspensa para refletir o que deseja-se permitir ao usuário selecionar.
