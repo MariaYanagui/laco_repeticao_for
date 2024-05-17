@@ -23,3 +23,10 @@
 # Autora
 <img src="maria.jpg" width=200px>
 
+# Ajudante
+
+* [Guilherme Serafim](https://github.com/Guilimas2/-form-CadEcommerce)
+
+<img src="gui.jpeg" width=200px>
+
+
